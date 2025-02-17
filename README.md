@@ -86,4 +86,4 @@ us directly.
 
 ## License
 
-Designed and Developed by **Aravindha Samy**. All rights reserved. © 2024.
+Designed and Developed by **Munit Sehrawat**. All rights reserved. © 2025.
